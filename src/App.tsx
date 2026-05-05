@@ -300,6 +300,7 @@ const Projects = () => {
     { url: "/images/project-futura.jpeg",      title: "Stand Futura / Minexo",   tag: "Iluminación LED",       id: "p7" },
     { url: "/images/project-taglus.jpeg",      title: "Mostrador Taglus",        tag: "Cartelería LED",        id: "p8" },
     { url: "/images/project-dent3d.jpeg",      title: "Mostrador DENT3D",        tag: "Cartelería LED",        id: "p9" },
+    { url: "/images/project-menara.jpeg",      title: "Stand Menara",            tag: "Iluminación LED",       id: "p10" },
   ];
 
   return (
