@@ -296,11 +296,9 @@ const Projects = () => {
     { url: "/images/project-riu.jpeg",         title: "Stand RIU / Free Way",    tag: "Feria de Turismo",      id: "p3" },
     { url: "/images/project-siga.jpeg",        title: "Letras Corpóreas LED",    tag: "Iluminación LED",       id: "p4" },
     { url: "/images/project-tecmaq.jpeg",      title: "Cartel TECMAQ",           tag: "Cartelería Industrial", id: "p5" },
-    { url: "/images/project-anodal.jpeg",      title: "Stand Anodal Outdoor",    tag: "Evento Outdoor",        id: "p6" },
     { url: "/images/project-futura.jpeg",      title: "Stand Futura / Minexo",   tag: "Iluminación LED",       id: "p7" },
     { url: "/images/project-taglus.jpeg",      title: "Mostrador Taglus",        tag: "Cartelería LED",        id: "p8" },
     { url: "/images/project-dent3d.jpeg",      title: "Mostrador DENT3D",        tag: "Cartelería LED",        id: "p9" },
-    { url: "/images/project-menara.jpeg",      title: "Stand Menara",             tag: "Iluminación LED",       id: "p10" },
     { url: "/images/project-menara.jpeg",      title: "Stand Menara",            tag: "Iluminación LED",       id: "p10" },
   ];
 
